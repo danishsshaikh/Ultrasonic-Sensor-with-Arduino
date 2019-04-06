@@ -10,12 +10,12 @@ Things you'll need :
 
 Working of the project is simple. Launch the Python program and place an object before the US sensor
 
-Now launch the python program and you should be able to notice the white rectangle move along with your paper,
-the distance between your paper and sensor will also be displayed in the shell window
+Now launch the python program and you should be able to notice the white rectangle move along with your object,
+the distance between your object and sensor will also be displayed in the shell window.
 
 This is how we can track the motion of object using Ultrasonic sensor and Python with Arduino.
 
-Hope you understood the project and enjoyed building one. 
+Hope you understood the project and enjoyed building one, 
 This is just one subtle step towards python but you can build a lot more creative things using this.
 
 #NOTE : 
