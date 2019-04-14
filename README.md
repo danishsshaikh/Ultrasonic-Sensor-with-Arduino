@@ -1,4 +1,4 @@
-# Ultrasonic-Sensor-with-Arduino
+# Ultrasonic Sensor with Arduino
 Made this project for my 4th Semester Sub -> Computer Organization and Architecture 
 
 Things you'll need :
@@ -18,10 +18,10 @@ This is how we can track the motion of object using Ultrasonic sensor and Python
 Hope you understood the project and enjoyed building one, 
 This is just one subtle step towards python but you can build a lot more creative things using this.
 
-# NOTE : 
+## NOTE : 
 
->> Make the change in the python code, and choose the com port as per your Arduino.
+* Make the change in the python code, and choose the com port as per your Arduino.
 
->> Choose the Echo and Trigger pin as per your Arduino ports.
+* Choose the Echo and Trigger pin as per your Arduino ports.
 
->> Install Vpython and Serial with the help of pip "install"
+* Install Vpython and Serial with the help of pip "install"
